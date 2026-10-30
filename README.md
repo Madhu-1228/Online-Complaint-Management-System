@@ -88,7 +88,7 @@ CivicCare supports five distinct user roles.
 | Notifications | Real-Time Polling |
 | Build Tool | Maven |
 | Version Control | Git & GitHub |
-| Development Tools | VS Code, Antigravity IDE, MongoDB Compass |
+| Development Tools | VS Code,  MongoDB Compass |
 
 ---
 
